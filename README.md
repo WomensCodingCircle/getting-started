@@ -1,7 +1,16 @@
+
+
 # Getting started
 
 We usually use the command line, git as a versioning control system and code editors for our coding projects.
-Here we collect information, what you need to install on your computer to get started:
+Here we collect information, what you need to install on your computer to get started.
+
+- [Editors](#editors)  
+- [Git](#git)  
+  - [On a Mac](#on-a-mac)
+  - [In Windows](#in-windows)
+- [Command Line](#command-line)
+  - [Terminal on Mac](#mac-terminal)
 
 ### Editors
 A couple of our members use Sublime Text [1] and vim on the command line. You can also use PyCharm [2] as well as other editors of course.
@@ -25,12 +34,35 @@ git --version
 in a commmand line and if git isn't installed on your system yet, a dialog pops up which lets you install it as part of Xcode
 command line tools.
 
-#### On Windows
+#### In Windows
 
 Please open the instructions to install git for Windows [4] You might want to install Tortoise Git [5], too to use Git from the
 context menu when you right-click in a folder.
 
 ### Command line
+
+#### Mac terminal
+
+Please follow the instructions here [7] to install Homebrew. It should be the following command, which you need to run:
+
+```bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Then install python 3.6 using brew:
+
+```bash
+brew install python
+```
+
+With
+
+```bash
+python --version
+which python
+```
+
+you can check the version and the path of your python installation.
 
 On a Mac, I find iterm2 [6] a great tool, it's like an advanced command line. There are also some instructions in the web, what
 you can add to the file
@@ -54,3 +86,9 @@ export PS1="\u@\H \w\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 [4] https://gitforwindows.org/  
 [5] https://tortoisegit.org/  
 [6] https://www.iterm2.com/  
+[7] https://brew.sh/
+
+#### More links
+
+Uninstall Anaconda:  
+https://docs.anaconda.com/anaconda/install/uninstall
