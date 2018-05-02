@@ -5,6 +5,8 @@
 We usually use the command line, git as a versioning control system and code editors for our coding projects.
 Here we collect information, what you need to install on your computer to get started.
 
+### Outline
+
 - [Editors](#editors)  
 - [Git](#git)  
   - [On a Mac](#on-a-mac)
@@ -31,7 +33,7 @@ Following those instructions [3] you need to type the command
 ```bash
 git --version
 ``` 
-in a commmand line and if git isn't installed on your system yet, a dialog pops up which lets you install it as part of Xcode
+in a command line and if git isn't installed on your system yet, a dialog pops up which lets you install it as part of Xcode
 command line tools.
 
 #### In Windows
@@ -92,3 +94,5 @@ export PS1="\u@\H \w\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 Uninstall Anaconda:  
 https://docs.anaconda.com/anaconda/install/uninstall
+
+[Getting started with Flask](./Flask.md)
