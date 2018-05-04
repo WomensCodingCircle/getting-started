@@ -1,17 +1,17 @@
 
-#### ReadMe file for HTML-CSS folder.
+# ReadMe file for HTML-CSS folder.
 
 starter.hrml  file is an example file to help you get started creating your own web pages.  It follows most style conventions recommended for HTML5 and CSS. First 7 lines or so is recommended for most html files.  They are machine read instructions for web browsers.  Starting with <title> tag, you can customize your content.  I have used the best styles I have found recommended for HTML and CSS.  
   
-# Styles Used
+#### Styles Used
 line indent:  4 spaces, no tabs.  I find this easier to read and is consistent with Python style guide.  More people recommend 2 spaces than 4 spaces.  Both 4 and 2 spaces are preferred over tabs.  Nobody recommends tabs.
 Naming convention:  Almost everyone seem to use all-lowercase-hyphen for names.
 blank lines or white space:  I use one or more blank lines to separate section.  This is more important for longer files.
 comments:  /* css section comments */  and <!-- html section comments -->
 You can also use exter *********** or ------------ to create visual blocks in addition to comment tags.
 
-# More to follow.
+#### More to follow.
 
-# Also, I have added some webdev instructions in the "Wiki" tab of top-levl menu.
+Also, I have added some webdev instructions in the "Wiki" tab of top-levl menu.
 
 -- Jennifer May 4, 2018 --
