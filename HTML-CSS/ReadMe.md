@@ -10,7 +10,7 @@ starter.html  file is an example file to help you get started creating your own 
 
   * blank lines or white space:  I use one or more blank lines to separate section.  This is more important for longer files.
 
-  * comments:  /* css comments */  and "<!-- html section comments -->"   You can also use extra *********** or ------------ to create visual blocks in addition to comment tags.
+  * comments:  /* css comments */  and "&lt;!-- html section comments --&gt;"   You can also use extra *********** or ------------ to create visual blocks in addition to comment tags.
 
 #### More to follow.
 
