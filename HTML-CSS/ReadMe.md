@@ -9,8 +9,10 @@ starter.html  file is an example file to help you get started creating your own 
   * Naming convention:  Almost everyone seem to use all-lowercase-hyphen for names.
 
   * blank lines or white space:  I use one or more blank lines to separate section.  This is more important for longer files.
-comments:  /* css section comments */  and <!-- html section comments -->
-You can also use exter *********** or ------------ to create visual blocks in addition to comment tags.
+
+  * comments:  /* css section comments */  and <!-- html section comments -->
+  
+You can also use extra *********** or ------------ to create visual blocks in addition to comment tags.
 
 #### More to follow.
 
