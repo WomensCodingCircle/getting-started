@@ -6,7 +6,7 @@ To develop a Flask app, you need to get familar with HTML, CSS and Python. We ha
   https://github.com/WomensCodingCircle/HTML-CSS-West
   
 - Python  
-  https://github.com/WomensCodingCircle/HTML-CSS-West  
+  https://github.com/WomensCodingCircle/CodingCirclePython  
   You need to know about loops, conditions, Python classes and dictionaries
   
 Regarding Flask, it is helpful to get familiar with the following terms and concepts:
