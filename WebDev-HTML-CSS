@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta viewport="">
+    <title>Hello WCC!</title>
+    <link rel="stylesheet" href="" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Tangerine|Mr+De+Haviland">
+    <!-- custom styles -->
+    <style>
+        /* This is an example of a fancy font */
+        .fancy-font1 {
+            font-family: "Tangerine", cursive, serif;
+			      font-size: 40px;
+			      }
+        /* This is another example of a fancy font */
+        .fancy-font2 {
+            font-family: "Mr De Haviland", cursive;
+	          font-size: 24px;
+            }
+        /* This is how you change a base font in the body element. */
+        body {
+        	  font-family: Georgia, Times, "Times New Roman", serif;
+			      font-size: 16px;
+            }
+    </style>
+</head>
+
+<body>
+<h1>Hello Women's Coding Circle!</h1>
+<p class="fancy-font1">Add some text here usign fancy font 1.</p>
+<p class="fancy-font2">This is another text line using fancy font 2.</p>
+<p>General body font - uses Georgia or serif font.</p>
+</body>
+
+</html>
