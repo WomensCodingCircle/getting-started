@@ -14,6 +14,6 @@ starter.html  file is an example file to help you get started creating your own 
 
 #### More to follow.
 
-Also, I have added my own working example website in this section's "Wiki" top-menu.
+Also, I have added my own working example website in the "Wiki" tab (see top menu).
 
 -- Jennifer May 4, 2018 --
