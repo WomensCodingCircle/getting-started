@@ -5,7 +5,7 @@ Hi, I am starting off this page, but please feel free to add your own suggestion
 
 ### Absolute Beginner
 
-My suggesting for an absolute beginner in HTML and CSS is to go and watch several **YouTube.com** videos for beginners and to do several beginner tutorials on **w3schools.org**.
+My suggestion for an absolute beginner in HTML and CSS is to go and watch several **YouTube.com** videos for beginners and to do several beginner tutorials on **w3schools.org**.
 
 #### YouTube.com Beginner Videos.
 
