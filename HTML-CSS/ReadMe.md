@@ -1,5 +1,5 @@
 
-# ReadMe file for HTML-CSS folder.
+# ReadMe file for HTML-CSS folder in Getting-Started repository
 
 Hi, I am starting off this page, but please feel free to chime in, disagree with me, and generally improve this page. :-D  My name is Jennifer Yoon, and I am part of the Women's Coding Circle.
 
@@ -9,8 +9,9 @@ My suggesting for an absolute beginner in HTML and CSS is to go and watch severa
 
 #### YouTube.com search for beginner videos.
 
-[search result for "HTML tutorial for beginners"](https://www.youtube.com/results?search_query=html+tutorial+for+beginners)
-Go to Youtube.com and type into its search box: "HTML for beginners," "HTML for absolute beginners,” or "CSS for beginners." Below are images of some of the videos that came up.  I recommend Traversy Media videos in general for webdev tutorials.  I learned a lot from his videos.  I think he is a good teacher, and explains stuff well in a low-key manner.  However, any of the other beginner videos will also have good information.  I recommend watching several different people, and watching your favorite ones many time.  On your 2nd or 3rd watching, pause the video and type or write the code out yourself.  Cover up 4 to 8 lines of code and see if you can reproduce it exactly.  Run it on your computer.  Did it work?  If not, can you spot the difference?  There may be more than one difference between what you typed and the video's code.  Cover the same code, and try reproducing it several more times.  Then move on to the next segment.  You don't have to do every segment on your first try.  Just do several that grabs your interest.  Later on, as you learn more, you may be interested in different parts of the video.
+[**Search results for "HTML tutorial for beginners":**](https://www.youtube.com/results?search_query=html+tutorial+for+beginners)
+
+Go to Youtube.com and type into its search box: "HTML for beginners," "HTML for absolute beginners,” or "CSS for beginners." Below are images of some of the videos that came up.  I recommend Traversy Media videos in general for webdev tutorials.  I learned a lot from his videos.  I think he is a good teacher, and explains stuff well in a low-key manner.  However, any of the other beginner videos will also have good information.  I recommend watching several different people, and watching your favorite ones many time.  On your 2nd or 3rd watching, pause the video and type or write the code out yourself.  Cover up 4 to 8 lines of code and see if you can reproduce it exactly.  Run it on your computer.  Did it work?  If not, can you spot the difference?  There may be more than one difference between what you typed and the video's code.  Cover the same code, and try reproducing it several more times until you feel comfortable.  Then move on to the next segment.  You don't have to do every segment on your first try.  Just do several that grabs your interest.  Later on, as you learn more, you may be interested in different parts of the video.
 
 -- insert video search image --
 
@@ -35,12 +36,15 @@ The **starter.html**  file located in the HTML-CSS folder is there to help you s
 
   * Naming convention:  Almost everyone seem to use all-lowercase-hyphen for names.
 
-  * blank lines or white space:  I use one or more blank lines to separate sections.  This is more important for longer files.
+  * Blank lines or white space:  I use one or more blank lines to separate sections.  This is more important for longer files.
 
-  * comments:  /* css comments */  and &lt;!-- html section comments --&gt;   You can also use extra *********** or ------------ to create visual blocks in addition to comment tags.
+  * Comments:  /* css comments */  and &lt;!-- html section comments --&gt;   
+    * You can also use extra *********** or ------------ to create visual blocks in addition to comment tags.  On longer CSS files, two stars for first line followed by a full line of stars is recommended. Certain editors use /** as auto-help or documentation text.  
+      /** This is an example of block comment.  
+      ****************************************************** */
 
 #### More to follow.
 
 Also, I have added my own working example website in the "Wiki" tab (see top menu).
 
--- Jennifer May 4, 2018 --
+-- Jennifer May 9, 2018 --
