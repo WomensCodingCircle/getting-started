@@ -15,6 +15,8 @@ Go to Youtube.com and type into its search box: "HTML for beginners," "HTML for 
 
 -- insert video search image --
 
+![html-youtube-img](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/HTML-youtube.png)
+
 Also freely copy and paste code from StackOverflow.com, W3Schools.com, or anywhere else.  When you copy code, check your line indents, especially your first line.  Many editors mess this up.  All code at the same level needs to have the same or more indents.  Your code may not run properly if your indents do not line up.
 
 Later on, I especially recommend Traversy Media's "crash courses" on CSS Grid and CSS Flexbox.  Several different YouTube video speakers  recommend using CSS Grid to layout webpages.  It seems to have become the dominant standard around spring of 2017.  Float is mainly for laying out an image with text that flows around the image.  CSS Grid also seems to have replaced frameworks, such as Bootstrap, for about half of YouTubers.  I agree that new websites should try to use CSS Grid first, before considering using a framework.  The main argument is that any website that hires a web developer would want custom design elements and custom user interfaces.  Otherwise, many free (or cheap) templates are available for download.  And usually those custom elements are not that many for the vast majority of websites.  Using a framework means overwriting all the customized sections of the website.  And the other parts of the framework are usually unused, which just slows page load times.  Popular frameworks, such as Bootstrap, are cached on edge servers, but they still incur a minor hit to speed.  This is more so for mobile phone users when they are on slower connections.
