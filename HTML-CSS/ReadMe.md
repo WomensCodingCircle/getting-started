@@ -3,10 +3,10 @@
 
 Hi, I am starting off this page, but please feel free to add your own suggestions, or edit and improve my suggestions. :-D  My name is Jennifer Yoon, and I am part of the Women's Coding Circle.
 
-Here is a link to Markdown Cheatsheet to edit this MreadMe.md file or the Wiki tab section pages.
-[Adam Pritchard's Markdown Cheatshhet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+Here is a link to Markdown Cheatsheet to edit this ReadMe.md file or the Wiki Tab section pages.
+  * [Adam Pritchard's Markdown Cheatshhet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
-### Absolute Beginner
+## Absolute Beginner
 
 My suggestion for an absolute beginner in HTML and CSS is to go and watch several **YouTube.com** videos for beginners and to do several beginner tutorials on **w3schools.org**.
 
@@ -28,8 +28,16 @@ For a live website example using CSS Grid and Flexbox, see my own website, 10Sig
 W3Schools.com has lots of tutorials for absolute beginners.  The site also has "Try It" button, that allows you to type HTML and CSS directly into the left box, and see the results on the right box from your browser.  You can type any HTML or CSS you want to try out, not just the ones the lesson is trying to teach you.  You can use it as a scratch pad to try out commands you are unfamiliar with.
 
 -- insert images for W3Schools --
+Home page for W3Schools.com.  In the image below, you see the first couple of HTML and CSS tutorials.
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-1.png "w3schools HTML page 1")
 
-### When You Are Ready for More
+Image below shows a very simple HTML document, and the "Try it Yourself" button on the bottom.
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-2.png "w3schools HTML page 2")
+
+Image below is a very simple CSS document.  The "Try it Yourself" button is again at the bottom.
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-3.png "w3schools HTML page 3")
+
+## When You Are Ready for More
 
 Welcome back after watching a bunch of YouTube videos and doing tutorials on w3schools!
 
@@ -47,8 +55,24 @@ The **starter.html**  file located in the HTML-CSS folder is there to help you s
       /** This is an example of a CSS block comment.  
       ****************************************************** */
 
-#### More to follow.
+More extensive coding styles info: [8 Best Practices for CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)
 
-Also, I have added my own working website in the "Wiki" tab (see top menu).
+## More Resources
 
--- Jennifer May 9, 2018 --
+Looks like Charlotte Weaver has started a webdev learning group on the West Coast.  
+  * See Charlotte's [HTML-CSS tutorials](https://github.com/WomensCodingCircle/HTML-CSS-West)
+
+I have added my own working website, 10SigmaRisk.com, in the "Wiki" Tab (see top menu).
+  * [Working Example Website](https://github.com/WomensCodingCircle/getting-started/wiki/HTML-CSS-getting-started-Wiki#working-example-website)
+
+Udacity class on front-end web development
+  * [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+  
+Udacity class for beginners in GibHub collaboration  
+  * [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+  
+#### End Notes
+
+I hope you found some of the information here useful.  Please add you own thoughts and suggestions.  Please feel free to edit my notes with your improved suggestions. :-P  You can find the markdown cheatsheet link to help format this .md file at the top of this page.
+
+-- Jennifer Yoon, May 10, 2018 --
