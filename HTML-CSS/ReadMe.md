@@ -3,8 +3,8 @@
 
 Hi, I am starting off this page, but please feel free to add your own suggestions, or edit and improve my suggestions. :-D  My name is Jennifer Yoon, and I am part of the Women's Coding Circle.
 
-Here is a link to Markdown Cheatsheet to edit this ReadMe.md file or the Wiki Tab section pages.
-  * [Adam Pritchard's Markdown Cheatshhet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+Here is a link to a Markdown Cheatsheet to edit this ReadMe.md file or the Wiki tab section pages.
+  * [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
 ## Absolute Beginner
 
@@ -20,21 +20,20 @@ Go to Youtube.com and type into its search box: "HTML for beginners," "HTML for 
 
 Also freely copy and paste code from StackOverflow.com, W3Schools.com, or anywhere else.  When you copy code, check your line indents, especially your first line.  Many editors mess this up.  All code at the same level needs to have the same or more indents.  Your code may not run properly if your indents do not line up.
 
-Later on, I especially recommend Traversy Media's "crash courses" on CSS Grid and CSS Flexbox.  
-For a live website example using CSS Grid and Flexbox, see my own website, 10SigmaRisk.com. For additional information, see the "Wiki" tab.  [HTML-CSS getting started Wiki](https://github.com/WomensCodingCircle/getting-started/wiki/HTML-CSS-getting-started-Wiki) 
+Later on, I especially recommend Traversy Media's "crash courses" on CSS Grid and CSS Flexbox.  For a live website example using CSS Grid and Flexbox, see my own website, 10SigmaRisk.com. 
+  * See more details on [HTML-CSS getting started Wiki](https://github.com/WomensCodingCircle/getting-started/wiki/HTML-CSS-getting-started-Wiki) 
 
 #### W3Schools.com tutorials for HTML and CSS
 
 W3Schools.com has lots of tutorials for absolute beginners.  The site also has "Try It" button, that allows you to type HTML and CSS directly into the left box, and see the results on the right box from your browser.  You can type any HTML or CSS you want to try out, not just the ones the lesson is trying to teach you.  You can use it as a scratch pad to try out commands you are unfamiliar with.
 
--- insert images for W3Schools --
-Home page for W3Schools.com.  In the image below, you see the first couple of HTML and CSS tutorials.
+Home page for W3Schools.com - showing the first couple of HTML and CSS tutorials.
 ![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-1.png "w3schools HTML page 1")
 
-Image below shows a very simple HTML document, and the "Try it Yourself" button on the bottom.
+A very simple HTML document, and the "Try it Yourself" button on the bottom.
 ![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-2.png "w3schools HTML page 2")
 
-Image below is a very simple CSS document.  The "Try it Yourself" button is again at the bottom.
+A very simple CSS document, with the "Try it Yourself" button at the bottom.
 ![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-3.png "w3schools HTML page 3")
 
 ## When You Are Ready for More
