@@ -28,13 +28,13 @@ Later on, I especially recommend Traversy Media's "crash courses" on CSS Grid an
 W3Schools.com has lots of tutorials for absolute beginners.  The site also has "Try It" button, that allows you to type HTML and CSS directly into the left box, and see the results on the right box from your browser.  You can type any HTML or CSS you want to try out, not just the ones the lesson is trying to teach you.  You can use it as a scratch pad to try out commands you are unfamiliar with.
 
 Home page for W3Schools.com - showing the first couple of HTML and CSS tutorials.
-![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-1.png "w3schools HTML page 1")
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-1.png "w3schools.com HTML")
 
 A very simple HTML document, and the "Try it Yourself" button on the bottom.
-![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-2.png "w3schools HTML page 2")
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-2.png "w3schools HTML image")
 
 A very simple CSS document, with the "Try it Yourself" button at the bottom.
-![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-3.png "w3schools HTML page 3")
+![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-4.png "w3schools CSS image")
 
 ## When You Are Ready for More
 
