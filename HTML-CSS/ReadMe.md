@@ -69,8 +69,10 @@ Udacity class on front-end web development
 Udacity class for beginners in GibHub collaboration  
   * [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
   
-#### End Notes
+### End Notes
 
-I hope you found some of the information here useful.  Please add you own thoughts and suggestions.  Please feel free to edit my notes with your improved suggestions. :-P  You can find the markdown cheatsheet link to help format this .md file at the top of this page.
+I hope you found some of the information here useful.  Please add you own thoughts and suggestions.  Please feel free to edit my notes with your improved suggestions. :-P  
+
+You can find the markdown cheatsheet link to help format this .md file at the top of this page.  Or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
 -- Jennifer Yoon, May 10, 2018 --
