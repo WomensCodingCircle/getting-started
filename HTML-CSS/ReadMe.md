@@ -4,7 +4,7 @@
 Hi, I am starting off this page, but please feel free to add your own suggestions, or edit and improve my suggestions. :-D  My name is Jennifer Yoon, and I am part of the Women's Coding Circle.
 
 Here is a link to a Markdown Cheatsheet to edit this ReadMe.md file or the Wiki tab section pages.
-  * [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+  * [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Absolute Beginner
 
@@ -73,6 +73,6 @@ Udacity class for beginners in GibHub collaboration
 
 I hope you found some of the information here useful.  Please add you own thoughts and suggestions.  Please feel free to edit my notes with your improved suggestions. :-P  
 
-You can find the markdown cheatsheet link to help format this .md file at the top of this page.  Or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+You can find the markdown cheatsheet link to help format this .md file at the top of this page.  Or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -- Jennifer Yoon, May 10, 2018 --
