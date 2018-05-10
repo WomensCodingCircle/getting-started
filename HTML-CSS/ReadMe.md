@@ -27,7 +27,7 @@ Later on, I especially recommend Traversy Media's "crash courses" on CSS Grid an
 
 W3Schools.com has lots of tutorials for absolute beginners.  The site also has "Try It" button, that allows you to type HTML and CSS directly into the left box, and see the results on the right box from your browser.  You can type any HTML or CSS you want to try out, not just the ones the lesson is trying to teach you.  You can use it as a scratch pad to try out commands you are unfamiliar with.
 
-  * **Home page for W3Schools.com - showing the first couple of HTML and CSS tutorials.**
+  * **Home page for W3Schools.com - showing tutorials by category.**
   
     ![alt text](https://github.com/WomensCodingCircle/getting-started/blob/master/HTML-CSS/w3school-1.png "w3schools.com home image")
 
@@ -41,7 +41,7 @@ W3Schools.com has lots of tutorials for absolute beginners.  The site also has "
 
 Welcome back after watching a bunch of YouTube videos and doing tutorials on w3schools!
 
-The [**starter.html**](../starter.html) file located in the HTML-CSS folder is there to help you start creating your own web pages.  It follows most style conventions recommended for HTML5 and CSS. First 7 lines or so is recommended for most html files.  They are machine read instructions for web browsers.  Starting with the <title> tag, you can customize your content.  I have used the best coding styles I found for HTML and CSS.  Using a good coding style is especially important once you start working on larger projects with a team.  It also makes it much easier for you to fix your own code later on, say six months later, when you have no idea why you wrote the code in that way. ;-)
+The [**starter.html**](../blob/master/HTML-CSS/starter.html) file located in the HTML-CSS folder is there to help you start creating your own web pages.  It follows most style conventions recommended for HTML5 and CSS. First 7 lines or so is recommended for most html files.  They are machine read instructions for web browsers.  Starting with the <title> tag, you can customize your content.  I have used the best coding styles I found for HTML and CSS.  Using a good coding style is especially important once you start working on larger projects with a team.  It also makes it much easier for you to fix your own code later on, say six months later, when you have no idea why you wrote the code in that way. ;-)
   
 #### Coding Styles used
   * Line indent:  4 spaces, no tabs.  I find this easier to read.  But more people recommend 2 spaces than 4 spaces.  Both 4 and 2 spaces are preferred over tabs.  (Also for multi-line codes, I increase indent for 2nd to last lines.  About half of others seem to do this.  I find this easier for spotting errors.)
