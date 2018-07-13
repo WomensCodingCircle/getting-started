@@ -25,7 +25,4 @@ Knowing about MVC and E-R-Modeling helps to understand Flask views, models and h
 - MVC  
   https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 - Entity-Relationship Modeling  
-  https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
-  
-
-
+  https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model

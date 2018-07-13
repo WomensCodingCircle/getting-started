@@ -24,9 +24,15 @@ Push a branch to the repo, even if an existing commit has been changed meanwhile
 git push origin [your branch] --force
 ```
 
-
 Change the commit history of, let's say the last three commits:
 ```bash
 git rebase -i HEAD~3
 ```
 Then, within the rebase interactive mode, you can change one of the 'pick' to 'squash', if you want to merge two previous commits.
+
+
+Take a file out of versioning with git, but keep the file, don't delete it:
+
+```bash
+git rm --cached [the file]
+```
