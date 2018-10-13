@@ -7,12 +7,16 @@ Here we collect information, what you need to install on your computer to get st
 
 ### Outline
 
-- [Editors](#editors)  
-- [Git](#git)  
-  - [On a Mac](#on-a-mac)
-  - [In Windows](#in-windows)
+- [Editors](#editors)
 - [Command Line](#command-line)
-  - [Terminal on Mac](#mac-terminal)
+  - [Mac Terminal](#mac-terminal)
+- [Versioning Control](#git)
+  - [Git on Mac](#on-a-mac)
+  - [Git in Windows](#in-windows)
+- Languages
+  - [R](R/)
+- Frameworks
+  - [Flask](Flask.md)
 
 ### Editors
 A couple of our members use Sublime Text [1] and vim on the command line. You can also use PyCharm [2] as well as other editors of course.
@@ -94,5 +98,3 @@ export PS1="\u@\H \w\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 Uninstall Anaconda:  
 https://docs.anaconda.com/anaconda/install/uninstall
-
-[Getting started with Flask](./Flask.md)
