@@ -66,7 +66,7 @@ I have added my own working website, 10SigmaRisk.com, under the "Wiki" tab secti
 Udacity class on front-end web development
   * [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
   
-Udacity class for beginners in GibHub collaboration  
+Udacity class for beginners about GitHub collaboration  
   * [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
   
 ### End Notes
