@@ -2,8 +2,11 @@
 
 # Getting started
 
+Getting started is the hardest. This repo contains some hints for your first
+steps with any given technology.
+
 We usually use the command line, git as a versioning control system and code editors for our coding projects.
-Here we collect information, what you need to install on your computer to get started.
+Here we collect, what you need to install on your computer to get started.
 
 ### Outline
 
@@ -15,6 +18,8 @@ Here we collect information, what you need to install on your computer to get st
   - [Git in Windows](#in-windows)
 - Languages
   - [R](R/)
+- Programming Environments
+  - [Jupyter Notebooks](JupyterNotebooks/)
 - Frameworks
   - [Flask](Flask.md)
 
