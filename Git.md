@@ -19,6 +19,16 @@ Add something to your last commit:
 git commit --amend
 ```
 
+Create a branch:
+```bash
+git checkout -b [branch name]
+```
+
+Rename a branch:
+```bash
+git branch -m [old name] [new name]
+```
+
 Push a branch to the repo, even if an existing commit has been changed meanwhile:
 ```bash
 git push origin [your branch] --force
