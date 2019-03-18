@@ -21,6 +21,16 @@ Clean up unused images / containers:
 > docker container prune
 ```
 
+Delete all containers:
+```bash
+docker rm $(docker ps -a -q)
+```
+
+Delete all images:
+```bash
+docker rmi $(docker images -q)
+```
+
 Go into a container:
 ```bash
 > docker exec -it [name of your container] bash

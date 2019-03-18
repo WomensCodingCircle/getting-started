@@ -14,6 +14,8 @@ Go one folder up with `cd ..`
 
 Go to root with `cd /`
 
+What your current path is, you can see with the command `pwd`
+
 ### Create files and folders
 
 Create a file:
