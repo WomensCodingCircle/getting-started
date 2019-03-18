@@ -25,7 +25,7 @@ $ touch [file name]
 
 Create a folder:
 ```bash
-$ mkdir [foler name]
+$ mkdir [folder name]
 ```
 
 ### List files and folders
