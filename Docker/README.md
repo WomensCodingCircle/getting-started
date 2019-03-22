@@ -44,8 +44,9 @@ docker images -a | grep "word" | awk '{print $3}' | xargs docker rmi
 Forced:
 ```bash
 docker images -a | grep "word" | awk '{print $3}' | xargs docker rmi -f
+```
 
-Delete images following a certain pattern:
+Delete containers following a certain pattern:
 ```bash
 docker ps -a | grep "pattern" | awk '{print $3}' | xargs docker rmi
 ```
