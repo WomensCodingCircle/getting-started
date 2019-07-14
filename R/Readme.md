@@ -24,5 +24,11 @@ R --save < example.r
 
 you run a script example.r which contains your R commands. The output pdf file will be generated in the folder you are currently in.
 
+### Links
+RStudio Cheat Sheet:
 
+https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf
+
+### References
 [1] https://www.rstudio.com/
+
