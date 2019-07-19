@@ -10,6 +10,14 @@ On a Mac, I'd recommend installing R using homebrew:
 $ brew install r
 ```
 
+or you can install using the cran website:
+
+https://cran.r-project.org/
+
+R intro pdf:
+
+https://cran.r-project.org/doc/manuals/R-intro.pdf
+
 To check, if R is installed properly and which version you have use:
 
 ```bash
