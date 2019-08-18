@@ -17,6 +17,14 @@
 %   leqno number on the left and equation centered
 %   fleqn number on the rigth and  equation on the left side
 %
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
 \title{A not so small \LaTeX{} Article Template\thanks{To your mother}}
 \author{Your Name  \\
 	Your Company / University  \\
@@ -42,26 +50,48 @@
 
 %\tableofcontents % create a table of contens
 
-\section*{R class summer 2019 - Questionnaire}
+\section*{WCC - R class summer 2019 - Questionnaire}
 
 We thank Andi Lemire and Anton Schulman for their time and effort to teach R to the Women's Coding Circle. Big thanks goes to Sarada Viswanathan as well, for organizing this class!
 
 To better understand, if the class fitted your needs and how we can improve in the future, we prepared a small questionnaire.
 
 \begin{enumerate}
-	\item What is your level of programming experience?\newline
-	\draw (0,0) -- (4,0) -- (4,4) -- (0,4) -- (0,0);
-	\item What is your level of math experience, did you feel you are lacking math skills to follow the class?
-	\item Did you get stuck during one of the classes? If, so when?
-	\item Please let us know, if there is anything else you have in mind, we should know, how improve coding classes in the future.
+	\item What is your level of programming experience?
+        \begin{figure}[!ht]
+             \begin {center}
+               \begin{tikzpicture}
+                 %\filldraw[draw=black,color=blue] (0,0) rectangle (10,5);
+                 \draw (0,0) rectangle (15,3);
+               \end{tikzpicture}
+             \end{center}
+        \end{figure}
+	\item Did you feel you are lacking math skills to follow the class?
+        \begin{figure}[!ht]
+             \begin {center}
+               \begin{tikzpicture}
+                 %\filldraw[draw=black,color=blue] (0,0) rectangle (10,5);
+                 \draw (0,0) rectangle (15,3);
+               \end{tikzpicture}
+             \end{center}
+        \end{figure}
+	\item Did you get stuck during the class? If, so when?
+	    \begin{figure}[!ht]
+             \begin {center}
+               \begin{tikzpicture}
+                 %\filldraw[draw=black,color=blue] (0,0) rectangle (10,5);
+                 \draw (0,0) rectangle (15,3);
+               \end{tikzpicture}
+             \end{center}
+        \end{figure}
+	\item Any other comments or suggestions for us?
+	    \begin{figure}[!ht]
+            \begin {center}
+                \begin{tikzpicture}
+                    \draw (0,0) rectangle (15,3);
+                \end{tikzpicture}
+            \end{center}
+        \end{figure}
 \end{enumerate}
-
-\begin{figure}[!ht]
- \begin {center}
-   \begin{tikzpicture}
-     \filldraw[draw=black,color=white] (0,0) rectangle (5,5);
-   \end{tikzpicture}
- \end{center}
-\end{figure}
 
 \end{document}

@@ -5,7 +5,7 @@ LaTeX allows you to create documents with the tools you use for programming as w
 This folder contains some simple LaTeX documents. With
 
 ```bash
-$ pdflatex WCC-poster.tex
+$ pdflatex feedback-form.tex
 ```
 
-you can create the file WCC-poster.pdf, which is a simple feedback form for our R class.
+you can create a pdf file, which is a feedback form for our R class.
