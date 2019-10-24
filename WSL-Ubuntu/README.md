@@ -59,11 +59,24 @@ Jennifer: To Add Later:
     b. Syncing with someone else's public Github account repo.  
        Add upstream to your machine, git pull upstream master.   
     c. Contribution to Open Source Github repo using FORK and upstream remote.  
-       Create feature branch.  git push origin feature. 
-       Create Pull Request from user's own Github forked repo, on feature branch.  
+       **First get them to sign up for Hactoberfest 2019**
+       https://hacktoberfest.digitalocean.com/  
+        - Use WCC getting-started repo to add pull-requests. 
+        - Me - setup alert - Monitor and Merge them later.  
+        
+    d. Sign into user's Github account, Goto WCC account, Git Fork WCC getting-started repo.
+       From user's laptop, git clone <User's Forked URL.git>
+       From user's laptop, git remote add upstream <WCC getting-started repo.git>.  
+       From user's laptop, to sync new changes as WCC Github.  
+        - Make sure you are on "master" branch.  
+        -  git checkout master. 
+        -  git pull upstream master
+       From user's laptop, git branch <new-feature>.  
+        - git push origin new-feature. 
+       Create Pull Request from user's own Github forked repo, on new-feature branch.  
  
  1. Add Conda Cheatsheet.  
- !. Add instruction for using miniconda and python 3.7, create conda environment on Ubuntu.  
+ 1. Add instruction for using miniconda and python 3.7, create conda environment on Ubuntu.  
  1. Starting Jupyter Notebook from Ubuntu without Firfox, copy URL to Chrome installed on Windows side.  
  1. In case Github renderer for Jupyter Notebook fails, copy URL to nbviewer online to show the notebook.  
     https://nbviewer.jupyter.org/  
