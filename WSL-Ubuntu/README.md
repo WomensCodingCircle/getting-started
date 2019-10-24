@@ -9,7 +9,7 @@ It's easy to install and fully compatible with Windows software, even File Explo
 https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide  
 
   
-#### Images of using Windows Explorer to view Ubuntu files.  
+#### Images of using Windows File Explorer to view Ubuntu files.  
 
  - Desktop shortcut for Ubuntu.  
    ![shortcuts](img-shortcut.jpg)  
