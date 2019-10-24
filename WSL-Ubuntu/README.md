@@ -4,16 +4,45 @@ Microsoft Launched Windows Subsystem for Linux a few years back.
 So now when you are on a Windows 10 laptop, you also access to the Ubuntu terminal on your Windows laptop!  
 Easy to install, and fully compatible with your other software, even Windows Explorer.  Follow the very detailed blog by Miachel Treat.
 
-Link to detailed blog on using WSL Ubuntu on Windows 10 machine.  
+#### Link to detailed blog on using WSL Ubuntu on Windows 10 machine.  
+
 https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide  
 
-<To insert, images for using Ubuntu with Windows Explorer>
+  
+#### Images of using Windows Explorer to view Ubuntu files.  
 
+ - Create a shortcut for Ubuntu.  
+   ![shortcuts](img-shortcut.jpg)  
 
-Additional Resource -- Linux Cheatsheet
+     
+ - Create a shortcut and set "Target" as "\\wsl$\Ubuntu".  
+   ![Shortcut Properties view](img-shortcut-properties.jpg)  
+
+   
+ - Open Ubuntu files using Windows File Explorer.   
+   ![Ubuntu folder in File Explorer](img-file-explorer.jpg)    
+
+   
+ - You can also open Ubuntu text files with Notepad app.  
+
+#### Ubuntu Linux Commands Cheatsheet  
+
 https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/pdf/
 
-Additional Resource -- MinGW for First Time Users
-http://www.mingw.org/wiki/MinGWforFirstTimeUsers
+#### The best text editor for beginners on Ubuntu is Nano.  
+
+https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor  
+
+ - install nano (you may need your password) 
+   ```sudo apt-get install nano ```
+   
+ - To create a newfile and start typing
+   ```nano newfile.txt``` ENTER key
+
+ - To edit existing file  
+   ```nano myfile.txt``` ENTER key   
+ 
+ - Control+s (save), Control+x (exit)
+
 
 -- Jennifer --
