@@ -46,4 +46,5 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  - Control+s (save), Control+x (exit)  
 
 
--- Jennifer --
+-- Jennifer Yoon  --  
+-- Updated 10/24/2019 --  
