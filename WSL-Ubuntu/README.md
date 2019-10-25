@@ -46,7 +46,7 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  - Control+s (save), Control+x (exit)  
 
 #### Setting up virtual environmnet using Anaconda. 
- - Link Conda Cheatsheet](conda-cheatsheet.pdf)
+ - [Conda Cheatsheet](conda-cheatsheet.pdf)
 
 -- Jennifer Yoon, Updated on 10/24/2019 --  
 
