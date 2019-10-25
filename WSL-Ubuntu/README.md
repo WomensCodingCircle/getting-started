@@ -1,7 +1,7 @@
-# Using Ubuntu on Windows 10 with WSL.  
+# Using Ubuntu on Windows 10 with Windows Subsytem for Linux (WSL).  
 
-Microsoft Launched Windows Subsystem for Linux a few years back. 
-So now when you are on a Windows 10 laptop, you also have full access to the Ubuntu terminal on your Windows laptop! 
+Microsoft Launched Windows Subsystem for Linux (WSL) a few years back. 
+So now when you are on a Windows 10 laptop, you also have full access to a Linux terminal on your Windows laptop! 
 It's easy to install and fully compatible with Windows software, even File Explorer.  Follow the very detailed blog by Michael Treat.
 
 #### Link to detailed blog on using WSL Ubuntu on Windows 10 machine.  
@@ -55,15 +55,14 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
     https://nbviewer.jupyter.org/  
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-2d-only.ipynb  
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-3d-projection-v3.ipynb  
+   
+    **To show tomorrow at WCC Booth - Janelia Fall Fair** 10/25/2019 -- **DONE**.  
     
-    Updated 10/24/2019.   
-    **To show tomorrow at WCC Booth - Janelia Fall Fair** 10/25/2019 11:30 AM to 1:00 PM. -- DONE.  
-    
--- Jennifer Yoon, Updated on 10/24/2019 --  
+-- Jennifer Yoon, Updated on 10/25/2019 --  
 
 \-------------------------------------------  
 
-#### Jennifer To Add Later:  
+#### Jennifer -- May Add Later:  
 
  1. Linux command, delete folder and all items without individual yes/no prompt.  
  1. Linux command, create alias for C:\mywork folder and save to permanent bash rc file.  
