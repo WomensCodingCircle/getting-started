@@ -45,11 +45,14 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  
  - Control+s (save), Control+x (exit)  
 
+#### Setting up virtual environmnet using Anaconda. 
+ - Link Conda Cheatsheet](conda-cheatsheet.pdf)
 
--- Jennifer Yoon  --  
--- Updated 10/24/2019 --  
+-- Jennifer Yoon, Updated on 10/24/2019 --  
 
-Jennifer: To Add Later:  
+\-------------------------------------------  
+
+#### Jennifer To Add Later:  
 
  1. Linux command, delete folder and all items without individual yes/no prompt.  
  1. Linux command, create alias for C:\mywork folder and save to permanent bash rc file.  
@@ -75,7 +78,7 @@ Jennifer: To Add Later:
         - git push origin new-feature. 
        Create Pull Request from user's own Github forked repo, on new-feature branch.  
  
- 1. Add Conda Cheatsheet.  
+
  1. Add instruction for using miniconda and python 3.7, create conda environment on Ubuntu.  
  1. Starting Jupyter Notebook from Ubuntu without Firfox, copy URL to Chrome installed on Windows side.  
  1. In case Github renderer for Jupyter Notebook fails, copy URL to nbviewer online to show the notebook.  
