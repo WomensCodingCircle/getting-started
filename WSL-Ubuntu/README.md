@@ -54,7 +54,7 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
     To make the alias persistent you need to declare it in the `~/.bash_profile` or `~/.bashrc`.  
      * Open the ~/.bashrc in your text editor nano:  
        `nano ~/.bashrc`  
-       `# alias alias_name="command_to_run"  
+       `# alias alias_name="command_to_run`  
        Examples:   
        `alias mywork="cd /mnt/c/mywork  # typing "mywork" changes directory to c:/mywork.`  
        `alias python="/mnt/c/python  # typing "cd python" changes directory to c:/python.`  
