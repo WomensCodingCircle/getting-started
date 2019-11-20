@@ -45,6 +45,14 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  
  - Control+s (save), Control+x (exit)  
 
+#### Useful Ubuntu Bash commands  
+
+ 1. Linux command, delete folder and all items without individual yes/no prompt.  
+    `commands`
+ 
+ 1. Linux command, create alias for C:\mywork folder and save to permanent bash rc file.  
+    `commands`
+
 #### Setting up virtual environmnet using Anaconda. 
  - [Conda Cheatsheet](conda-cheatsheet.pdf)
 
@@ -56,16 +64,10 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-2d-only.ipynb  
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-3d-projection-v3.ipynb  
    
-    **To show tomorrow at WCC Booth - Janelia Fall Fair** 10/25/2019 -- **DONE**.  
-    
--- Jennifer Yoon, Updated on 10/25/2019 --  
 
 \-------------------------------------------  
 
 #### Jennifer -- May Add Later:  
-
- 1. Linux command, delete folder and all items without individual yes/no prompt.  
- 1. Linux command, create alias for C:\mywork folder and save to permanent bash rc file.  
  
  1. Add Github instructions - Maybe under Git folder??  
     a. Simple commiting to user's own Github account repo.  
