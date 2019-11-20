@@ -50,8 +50,14 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  1. Linux command, delete folder and all items without individual yes/no prompt.  
     `commands`
  
- 1. Linux command, create alias for C:\mywork folder and save to permanent bash rc file.  
-    `commands`
+ 1. Linux command, create alias for C:\mywork folder and save to a permanent bash resource startup file.  
+    To make the alias persistent you need to declare it in the `~/.bash_profile` or `~/.bashrc`. 
+     * Open the ~/.bashrc in your text editor nano:
+       `nano ~/.bashrc`
+       `# alias alias_name="command_to_run"
+       Examples:  
+       `alias mywork="cd /mnt/c/mywork  # typing "mywork" changes directory to c:/mywork. `
+       `alias python="/mnt/c/python  # typing "cd python" changes directory to c:/python. `
 
 #### Setting up virtual environmnet using Anaconda. 
  - [Conda Cheatsheet](conda-cheatsheet.pdf)
