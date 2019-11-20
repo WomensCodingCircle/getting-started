@@ -58,8 +58,8 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
        `nano ~/.bashrc`  
        `# alias alias_name="command_to_run" `  
        Examples:   
-       `alias mywork="cd /mnt/c/mywork"  # typing "mywork" changes directory to c:/mywork.`  
-       `alias pythonwk="/mnt/c/pythonwk"  # typing "cd pythonwk" changes directory to c:/pythonwk.`  
+       `alias mywork="cd /mnt/c/mywork" ` # typing "mywork" changes directory to c:/mywork.  
+       `alias pythonwk="/mnt/c/pythonwk" ` # typing "cd pythonwk" changes directory to c:/pythonwk.  
 
 #### Setting up virtual environmnet using Anaconda. 
  - [Conda Cheatsheet](conda-cheatsheet.pdf)
