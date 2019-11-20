@@ -47,9 +47,11 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
 
 #### Useful Ubuntu Bash commands  
 
- 1. Linux command, delete folder and all items without individual yes/no prompt.  
-    `commands`
- 
+ 1. Linux command, delete folder and all items inside without yes/no prompts.  
+     * When you try to delete a folder with many items inside using `rm mydir`, it will respond with a 
+ "yes/no" prompt for each item.  This is a pain.  Here's how to delete the whole folder without any prompts.  
+      `rm -rf mydir`    
+     
  1. Linux command, create alias for C:\mywork folder and save to a permanent bash resource startup file.    
     To make the alias persistent you need to declare it in the `~/.bash_profile` or `~/.bashrc`.  
      * Open the ~/.bashrc in your text editor nano:  
