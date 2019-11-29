@@ -77,6 +77,7 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
  * Updates to VS Code makes it easier to work with Jupyter Notebooks.  
  * On a Windows machine, Right-Click .ipynb file, then select "Open In... VS Code"  
  * Linke to download VS Code:  https://code.visualstudio.com/download  
+ * You get fully interactive Jupyter notebook that look just like the in-browser app.  
  
 
     
