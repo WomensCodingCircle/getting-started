@@ -72,31 +72,11 @@ https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-2d-only.ipynb  
     https://nbviewer.jupyter.org/github/WomensCodingCircle/getting-started/blob/master/WSL-Ubuntu/matplotlib-3d-projection-v3.ipynb  
    
+#### VS Code IDE now opens Jupyter Notebooks (.ipynb format)    
 
-\-------------------------------------------  
-
-#### Jennifer -- May Add Later:  
- 
- 1. Add Github instructions - Maybe under Git folder??  
-    a. Simple commiting to user's own Github account repo.  
-    b. Syncing with someone else's public Github account repo.  
-       Add upstream to your machine, git pull upstream master.   
-    c. Contribution to Open Source Github repo using FORK and upstream remote.  
-       **First get them to sign up for Hactoberfest 2019**
-       https://hacktoberfest.digitalocean.com/  
-        - Use WCC getting-started repo to add pull-requests. 
-        - Me - setup alert - Monitor and Merge them later.  
-        
-    d. Sign into user's Github account, Goto WCC account, Git Fork WCC getting-started repo.
-       From user's laptop, git clone <User's Forked URL.git>
-       From user's laptop, git remote add upstream <WCC getting-started repo.git>.  
-       From user's laptop, to sync new changes as WCC Github.  
-        - Make sure you are on "master" branch.  
-        -  git checkout master. 
-        -  git pull upstream master
-       From user's laptop, git branch <new-feature>.  
-        - git push origin new-feature. 
-       Create Pull Request from user's own Github forked repo, on new-feature branch.  
+ * Updates to VS Code makes it easier to work with Jupyter Notebooks.  
+ * On a Windows machine, Right-Click .ipynb file, then select "Open In... VS Code"  
+ * Linke to download VS Code:  https://code.visualstudio.com/download  
  
 
     
