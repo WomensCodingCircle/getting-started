@@ -51,6 +51,11 @@ git reset --hard origin/[branch name]
 
 Be very careful with `reset --hard` -- you loose all uncommited changes you made locally to your files.
 
+Reset to last version uploaded to remote repository
+
+```bash
+git reset --hard origin/[branch name]
+```
 
 #### Git History
 
