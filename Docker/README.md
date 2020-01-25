@@ -1,5 +1,14 @@
 ## Docker
 
+Docker [1] is a tool, which takes the burden away from you to install libraries and other dependencies to a machine, if you want to run a piece of code there.
+With Docker you can create containers, which contain every piece of the environment necessary to be able to execute your code.
+In that sense, Docker allows you to follow the principles of Infrastructure as Code. [2]
+
+[1] https://en.wikipedia.org/wiki/Docker_(software)  
+[2] https://en.wikipedia.org/wiki/Infrastructure_as_code
+
+### Some common Docker commands
+
 See your running containers:
 ```bash
 docker ps
