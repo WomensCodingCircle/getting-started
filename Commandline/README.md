@@ -1,8 +1,13 @@
-## Work with the command line / the terminal
+# The command line / the terminal
 
 The command line is seen as the essential tool when it comes to coding by many people. To open the terminal on a Mac, press \[command\] + \[space\] to search for "terminal" or "iterm2".
 
 Within the terminal, the following commands are very helpful:
+
+[Switch folders](#switch-folders)  
+[Create files and folders](#create-files-and-folders)  
+[List files and folders](#list-files-and-folders)  
+[Unzip archive files](#unzip-archive-files)
 
 ### Switch folders
 
@@ -45,3 +50,15 @@ If you see a terminal command somewhere and you don't know what it does, try ope
 $ man [the command]
 ```
 It contains a description of that command and its parameters.
+
+### Unzip archive files
+Oftentimes, you come across files with the extension `.zip` or `.tar.gz`, those archive files which contain a set of files. You need to extract those files using
+programs like `zip` or `tar`:
+
+```bash
+zip myfile.zip -d myfolder
+```
+
+```bash
+tar xzvf myfile.tar.gz
+```
