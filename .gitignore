@@ -1,3 +1,5 @@
 .idea/
 *.svg
 *.png
+*.ipynb
+*/env
